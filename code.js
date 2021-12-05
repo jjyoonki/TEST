@@ -1,3 +1,4 @@
+C2
 window.onload = function(){
 	var n=1;
 	while(1){
