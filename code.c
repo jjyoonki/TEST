@@ -1,4 +1,4 @@
-C2
+Fnc/Func1 C6
 #include <stdio.h>
 #include <string.h>
 
