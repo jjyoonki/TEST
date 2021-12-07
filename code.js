@@ -1,5 +1,4 @@
-C5
-C2
+Fnc/Func1 C11
 window.onload = function(){
 	var n=1;
 	while(1){
